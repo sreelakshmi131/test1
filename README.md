@@ -4,3 +4,4 @@ testing the repo
 today is a wonderful day
 I am doing the new changes and commiting to new branch2
 I am learning Git.
+You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub flow before working on larger projects.
